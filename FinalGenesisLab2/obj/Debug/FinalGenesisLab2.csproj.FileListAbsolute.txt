@@ -1,0 +1,38 @@
+C:\Users\54228\Documents\Analista en Sistemas\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\bin\Debug\FinalGenesisLab2.exe.config
+C:\Users\54228\Documents\Analista en Sistemas\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\bin\Debug\FinalGenesisLab2.exe
+C:\Users\54228\Documents\Analista en Sistemas\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\bin\Debug\FinalGenesisLab2.pdb
+C:\Users\54228\Documents\Analista en Sistemas\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.csproj.AssemblyReference.cache
+C:\Users\54228\Documents\Analista en Sistemas\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\54228\Documents\Analista en Sistemas\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.frmPrincipal.resources
+C:\Users\54228\Documents\Analista en Sistemas\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.Properties.Resources.resources
+C:\Users\54228\Documents\Analista en Sistemas\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.csproj.GenerateResource.cache
+C:\Users\54228\Documents\Analista en Sistemas\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.csproj.CoreCompileInputs.cache
+C:\Users\54228\Documents\Analista en Sistemas\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.exe
+C:\Users\54228\Documents\Analista en Sistemas\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.pdb
+C:\Users\54228\Documents\Analista en Sistemas\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.frmAgregar.resources
+C:\Users\54228\Documents\Analista en Sistemas\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.frmBuscar.resources
+C:\Users\54228\Documents\Analista en Sistemas\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.frmConsulta.resources
+C:\Users\54228\Documents\Analista en Sistemas\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.frmAcerca.resources
+C:\Users\54228\Documents\Analista en Sistemas\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.frmListaAct.resources
+C:\Users\54228\Documents\Analista en Sistemas\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.frmListaBar.resources
+C:\Users\54228\Documents\Analista en Sistemas\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.frmListaCompleta.resources
+C:\Users\54228\Documents\Analista en Sistemas\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.frmListaDeudores.resources
+C:\Users\54228\Documents\Analista en Sistemas\2do Cuatri\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\bin\Debug\FinalGenesisLab2.exe.config
+C:\Users\54228\Documents\Analista en Sistemas\2do Cuatri\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\bin\Debug\FinalGenesisLab2.exe
+C:\Users\54228\Documents\Analista en Sistemas\2do Cuatri\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\bin\Debug\FinalGenesisLab2.pdb
+C:\Users\54228\Documents\Analista en Sistemas\2do Cuatri\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.csproj.AssemblyReference.cache
+C:\Users\54228\Documents\Analista en Sistemas\2do Cuatri\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\54228\Documents\Analista en Sistemas\2do Cuatri\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.frmAcerca.resources
+C:\Users\54228\Documents\Analista en Sistemas\2do Cuatri\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.frmAgregar.resources
+C:\Users\54228\Documents\Analista en Sistemas\2do Cuatri\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.frmBuscar.resources
+C:\Users\54228\Documents\Analista en Sistemas\2do Cuatri\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.frmConsulta.resources
+C:\Users\54228\Documents\Analista en Sistemas\2do Cuatri\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.frmListaAct.resources
+C:\Users\54228\Documents\Analista en Sistemas\2do Cuatri\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.frmListaBar.resources
+C:\Users\54228\Documents\Analista en Sistemas\2do Cuatri\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.frmListaCompleta.resources
+C:\Users\54228\Documents\Analista en Sistemas\2do Cuatri\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.frmListaDeudores.resources
+C:\Users\54228\Documents\Analista en Sistemas\2do Cuatri\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.frmPrincipal.resources
+C:\Users\54228\Documents\Analista en Sistemas\2do Cuatri\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.Properties.Resources.resources
+C:\Users\54228\Documents\Analista en Sistemas\2do Cuatri\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.csproj.GenerateResource.cache
+C:\Users\54228\Documents\Analista en Sistemas\2do Cuatri\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.csproj.CoreCompileInputs.cache
+C:\Users\54228\Documents\Analista en Sistemas\2do Cuatri\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.exe
+C:\Users\54228\Documents\Analista en Sistemas\2do Cuatri\Laboratorio de Programación II\Programas 2do Cuatri\FinalGenesisLab2\FinalGenesisLab2\obj\Debug\FinalGenesisLab2.pdb
